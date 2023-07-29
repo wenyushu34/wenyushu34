@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wenyushu34
+- 👀 I’m interested in JavaScript. I’m currently learning TypeScript.
+- 🌱 Learning TypeScript. Passionate about type safety in JavaScript. Aspiring to write cleaner, more reliable code.
